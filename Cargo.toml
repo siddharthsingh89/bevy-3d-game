@@ -1,0 +1,10 @@
+[package]
+name = "rustverse"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+bevy = "0.15.1"
+bevy_panorbit_camera = "0.21.2"
+bevy_rapier3d = "0.28.0"
+bevy_third_person_camera = "0.2.0"
